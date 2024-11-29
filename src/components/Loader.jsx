@@ -48,7 +48,7 @@ const Loader = () => {
       </div>
 
       {/* Render Hero after loader animation */}
-      {showHero && <Hero />}
+      {showHero}
     </div>
   );
 };
