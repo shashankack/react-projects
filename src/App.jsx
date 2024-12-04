@@ -1,12 +1,9 @@
-import './App.css'
-import Loader from './components/Loader'
-import Hero from './components/Hero'
+import Contact from './components/Footer/Footer'
 
 function App() {
   return (
     <>
-      <Loader />
-      <Hero />
+      <Contact />
     </>
   )
 }
